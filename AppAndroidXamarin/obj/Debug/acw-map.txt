@@ -1,0 +1,4 @@
+AppAndroidXamarin.MainActivity, AppAndroidXamarin;md5c1f59885b39b75ce05a569c33b9e13d9.MainActivity
+AppAndroidXamarin.MainActivity, AppAndroidXamarin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c1f59885b39b75ce05a569c33b9e13d9.MainActivity
+AppAndroidXamarin.MainActivity;md5c1f59885b39b75ce05a569c33b9e13d9.MainActivity
+appandroidxamarin.MainActivity;md5c1f59885b39b75ce05a569c33b9e13d9.MainActivity
